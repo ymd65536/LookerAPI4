@@ -1,0 +1,5 @@
+[Looker]
+base_url=https://XXXXXX.jp.looker.com/api/4.0
+client_id={client_id}
+client_secret={client_secret}
+verify_ssl=True
